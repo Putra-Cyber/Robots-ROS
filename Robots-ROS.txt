@@ -1,0 +1,14 @@
+Tentang
+
+AstrobeeAstrobee adalah robot terbang bebas yang dirancang untuk melayani muatan di dalam Stasiun Luar Angkasa Internasional (ISS). Perangkat Lunak Robot Astrobee terdiri dari perangkat lunak yang tertanam (on-board), alat pendukung dan simulator. Perangkat Lunak Robot Astrobee bekerja pada tiga komputer papan tunggal internal Astrobee dan menggunakan kerangka kerja Sistem Operasi Robot (ROS) open source sebagai middleware penyampaian pesan. Perangkat Lunak Robot Astrobee melakukan lokalisasi berbasis penglihatan, menyediakan navigasi otonom, docking, dan perching, berbagai sensor dan aktuator, dan mendukung interaksi pengguna melalui tampilan berbasis layar, sinyal cahaya, dan suara.Perangkat Lunak Robot Astrobee memungkinkan Astrobee dioperasikan dalam beberapa mode: eksekusi berdasarkan rencana (urutan perintah), teleoperation, atau secara mandiri melalui eksekusi kode yang dihosting yang diunggah oleh mitra proyek (ilmu tamu). Simulator perangkat lunak mendukung Perangkat Lunak Robot Astrobee dievaluasi tanpa memerlukan perangkat keras robot.
+
+Repositori ini menyediakan perangkat lunak penerbangan dan simulator, terutama ditulis dalam C ++. Repositori juga menyediakan beberapa utilitas lain, termasuk alat untuk membuat peta untuk pelokalan. Repositori ,, terpisah Java API, yang menggunakan sistem pesan ROS untuk berkomunikasi dengan perangkat lunak penerbangan.astrobee_android
+
+Perangkat Lunak Robot Astrobee masih dalam tahap beta. Ini berarti bahwa beberapa fitur tidak lengkap, dan perubahan ekstensif dapat diharapkan. Silakan lihat RELEASE untuk daftar fitur dan batasan saat ini.
+
+
+
+
+
+
+
